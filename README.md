@@ -1,10 +1,10 @@
 # Spring Security Demo
 
-##accounts app
+## accounts app
 `user:user`
 `admin:admin`
 
-##database
+## database
 postgreSQL 
 `db_name: spring`
 
